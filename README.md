@@ -13,6 +13,12 @@ The motivation behind this project was to have a clear visualization of the real
 As we can see here, there is a lot of 
 
 
+## Things I had to change for Potential and Hydrogen Atom
+
+## Issues I ran into
+
+## Future plans for this project
+
 
 
 
