@@ -23,8 +23,9 @@ Here, Psi is the wavefunction and by taking the square of it's magnitude, it giv
 
 As we can see here, there is a lot of 
 
+## Particle in a box (Constrianed Potential)
 
-## Things I had to change for Potential and Hydrogen Atom
+## The Hydrogen Atom
 
 ## Issues I ran into
 
