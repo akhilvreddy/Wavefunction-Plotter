@@ -24,6 +24,15 @@ Here, Psi is the wavefunction and by taking the square of it's magnitude, it giv
 As we can see here, there is a lot of 
 
 ## Particle in a box (Constrianed Potential)
+<p align="center">
+  <img 
+    width="203"
+    height="327"
+    src="https://github.com/akhilvreddy/Wavefunction-Analysis/blob/main/box1.gif"
+    background-color: #wwwwww;
+  >
+</p>
+
 
 ## The Hydrogen Atom
 
