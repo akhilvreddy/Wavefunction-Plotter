@@ -39,9 +39,9 @@ Here, Ψ is the wavefunction and by taking the square of it's magnitude, it give
 
 ## The Hydrogen Atom
 
-
-
-
+## Sources
+ - Griffith's Intro to Quantum Mechanics
+ - Wikipedia
 
 
 
