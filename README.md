@@ -38,6 +38,8 @@ Here, Ψ is the wavefunction and by taking the square of it's magnitude, it give
 ## Particle in a constant Potential
 
 ## The Hydrogen Atom
+This is the part that I am still working on. For the hydrogen atom, there is some thigns we need to change in the Shcrodinger equation
+
 
 ## Sources
  - Griffith's Intro to Quantum Mechanics
