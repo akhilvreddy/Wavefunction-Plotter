@@ -19,27 +19,23 @@ Here, Psi is the wavefunction and by taking the square of it's magnitude, it giv
 
 ## Writing the python code
 
-### A small demonstration
+### Issues I ran into - 
+- deez
+- nuts
 
-As we can see here, there is a lot of 
 
-## Particle in a box (Constrianed Potential)
+## The simplest case: Particle in a box (V=0)
 <p align="center">
   <img 
-    width="203"
-    height="327"
-    src="https://github.com/akhilvreddy/Wavefunction-Analysis/blob/main/box1.gif"
-    background-color: #wwwwww;
+    width="200"
+    height="187"
+    src="https://github.com/akhilvreddy/Wavefunction-Analysis/blob/main/200px-InfiniteSquareWellAnimation.gif"
   >
 </p>
 
-![]()
+## Particle in a constant Potential
 
 ## The Hydrogen Atom
-
-## Issues I ran into
-
-## Future plans for this project
 
 
 
