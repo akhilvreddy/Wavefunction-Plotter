@@ -14,6 +14,9 @@ The motivation behind this project was to have a clear visualization of the real
 </p>
 
 Even if you haven't seen this equation before, you have probably heard of it - it is called _Schrodinger's Equation_. This equation is a Partial Differential Equation and this specific one is solved by using a technique called separation of variables. In the equation, the first term represents the Kinetic Energy of the particle, the second term represents the Potential Energy of the partcile (V for potential as you have probably seen before) and the term on the right hand side represents the total energy of the particle. 
+
+Here, Psi is the wavefunction and by taking the square of it's magnitude, it gives us the probability density of where we expect the particle to be. The higher the amplitude, the higher the chance the particle can be found there, and vice versa. Below, I have written code for both Psi and the square magnitude of Psi. I started off simple by setting the potential equal to 0 and slowly added more. 
+
 ## Writing the python code
 
 ### A small demonstration
