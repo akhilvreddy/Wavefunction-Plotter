@@ -30,6 +30,9 @@ For these cases, the wavefunction isn't too difficult to derive. I skipped codin
   >
 </p>
 
+### The Code
+All of my code can be found [here](https://github.com/akhilvreddy/Quantum-Wavefunction-Analysis/blob/main/WavefunctionNotebook.ipynb). 
+
 ## Particle in a varying potential 
 For this case, I came up with a special type of potential function, which was more of like a upward facing parabola, but was completely under the x-axis the whole time. This way, the potnetial barrier was still a well. This is what the potential looked like: 
 <p align="center">
