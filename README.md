@@ -19,14 +19,9 @@ Even if you haven't seen this equation before, you have probably heard of it - i
 
 Here, Ψ is the wavefunction and by taking the square of it's magnitude, it gives us the probability density of where we expect the particle to be. The higher the amplitude, the higher the chance the particle can be found there, and vice versa. Below, I have written code for both Ψ and the square magnitude of Ψ. I started off simple by setting the potential equal to 0 and slowly added more. 
 
-## Writing the python code
-
-### Issues I ran into - 
-- deez
-- nuts
-
 
 ## The simplest case: Particle in a box (V=0)
+For these cases, the wavefunction isn't too difficult to derive. I skipped coding this step but you can see how the wavefunction behaves from looking at this gif from Wikipedia: 
 <p align="center">
   <img 
     width="200"
@@ -35,15 +30,15 @@ Here, Ψ is the wavefunction and by taking the square of it's magnitude, it give
   >
 </p>
 
-## Particle in a constant Potential
+## Particle in a varying potential 
+For this case, I came up with a special type of potential function, which was more of like a upward facing parabola, but was completely under the x-axis the whole time. This way, the potnetial barrier was still a well. This is what the potential looked like: 
+<p align="center">
+  <img 
+    width="200"
+    height="187"
+    src="https://github.com/akhilvreddy/Wavefunction-Analysis/blob/main/200px-InfiniteSquareWellAnimation.gif"
+  >
+</p>
 
 ## The Hydrogen Atom
-This is the part that I am still working on. For the hydrogen atom, there is some thigns we need to change in the Shcrodinger equation
-
-
-## Sources
- - Griffith's Intro to Quantum Mechanics
- - Wikipedia
-
-
-
+This is the part that I am still working on. There are a lot more things to consider here, like spherical harmonics and solving multiple different differential equations, for the radial and angular parts. 
