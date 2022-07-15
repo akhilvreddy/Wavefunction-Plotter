@@ -38,9 +38,9 @@ For this case, I came up with a special type of potential function, which was mo
 
 <p align="center">
   <img 
-    width="200"
+    width="390"
     height="187"
-    src="https://github.com/akhilvreddy/Wavefunction-Analysis/blob/main/200px-InfiniteSquareWellAnimation.gif"
+    src="https://github.com/akhilvreddy/Quantum-Wavefunction-Analysis/blob/main/wavepotential.png"
   >
 </p>
 
